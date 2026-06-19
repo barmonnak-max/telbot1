@@ -15,7 +15,7 @@ from telegram.ext import (
 import os
 
 
-TOKEN = os.getenv("8873799207:AAFi1rVaBfmdCn5U2Q8Y_KQ8arl3ItRn8dg")
+TOKEN = os.getenv("BOT_TOKEN")
 
 
 ADMIN_ID = 8325235691  # آیدی عددی تلگرام خودت
